@@ -1,2 +1,2 @@
-# temp
-temporary
+# generazione testo 
+esempi da makemore
